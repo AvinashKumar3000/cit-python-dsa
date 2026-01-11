@@ -1,4 +1,4 @@
-# prob 11 LC_40
+# prob 11 LC_40 combinations sum 2
 
 class Solution:
     def combinationSum2(self, candidates, target):

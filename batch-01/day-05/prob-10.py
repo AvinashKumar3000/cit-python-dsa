@@ -1,4 +1,4 @@
-# prob-10 LC_39
+# prob-10 LC_39 combinations_sum
 
 class Solution:
     def combinationSum(self, candidates, target):

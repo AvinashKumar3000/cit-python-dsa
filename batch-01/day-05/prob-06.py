@@ -1,4 +1,4 @@
-# LC_51
+# LC_51 n-queens
 
 class Solution:
     def solveNQueens(self, n: int) -> List[List[str]]:

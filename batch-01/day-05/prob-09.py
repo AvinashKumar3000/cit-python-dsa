@@ -1,5 +1,4 @@
-# LC_78
-# next prob: LC_90 SUBSET 2
+# LC_78 subsets
 
 class Solution:
     def subsets(self, nums):

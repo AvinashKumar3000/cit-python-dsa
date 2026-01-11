@@ -1,4 +1,4 @@
-# PRob 12 LC_
+# PRob 12 LC_216 combinations sum 3
 
 ## solution 1
 

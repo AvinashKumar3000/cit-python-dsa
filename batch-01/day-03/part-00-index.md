@@ -1,14 +1,5 @@
 # topics
 
-- 1 pointer method
-- 2 pointer method
-
-
-LC_33   search in rotated sorted array
-LC_744  find smallest letter
-LC_905  sort array by parity
-LC_922  sort array by parity 2
-
 - reference
 - class / object / constructor / attributes
 - linear DS
@@ -18,13 +9,13 @@ LC_922  sort array by parity 2
 	- linked list
 	- hash map
 
-1. LC_496  next greatest ele  
-2. LC_503  next greatest ele 2
-3. LC_232  my queue  
-4. LC_206    
-5. LC_19     
-6. LC_141    
-7. LC_142    
-8. LC_203    
-9. LC_234    
-10. LC_876    
+1.  LC_496  next greatest ele  
+2.  LC_503  next greatest ele 2
+3.  LC_232  my queue  
+4.  LC_206  reverse a linked list
+5.  LC_19   Remove n th node from linked list
+6.  LC_141  cycle
+7.  LC_142  cycle 2
+8. LC_203  remove item of match value
+9.  LC_234  palindrome
+10. LC_876 middle

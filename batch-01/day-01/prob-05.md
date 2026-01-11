@@ -8,6 +8,4 @@ class Solution:
             if stone in jewels:
                 count += 1
         return count
-
-        
 ```

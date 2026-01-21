@@ -22,3 +22,27 @@ class Solution:
 
         return count
 ```
+
+```python
+class Solution:
+    def subarraySum(self, nums, k):
+        pc = {0: 1}   # prefix sum 0 seen once
+        cp = 0
+        count = 0
+
+        for num in nums:
+            cp += num
+            print("current prefix", cp, end=" | ")
+            need = cp - k
+            print("need: ", need,end=" | ")
+            if need in pc:
+                print("dict: ", pc)
+                count += 1#pc[need]
+
+            pc[cp] = pc.get(cp, 0) + 1
+            print()
+
+        return count
+
+```
+

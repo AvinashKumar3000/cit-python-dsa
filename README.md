@@ -48,3 +48,51 @@ A python based problem solving + DSA
 1. LC_77 combinations
 1. LC_78 subsets
 1. LC_90 subsets 2
+
+## batch-02 problems
+
+1. LC_1
+1. LC_238
+1. LC_215
+1. LC_347
+1. LC_49
+1. LC_128
+1. LC_15
+1. LC_56
+1. LC_3
+1. LC_424
+1. LC_560
+1. LC_76
+1. LC_763
+1. LC_55
+1. LC_45
+1. LC_134
+1. LC_33
+1. LC_98
+1. LC_173
+1. LC_230
+1. LC_124
+1. LC_337
+1. LC_295
+1. LC_146
+1. LC_307
+1. LC_347
+1. LC_215
+1. LC_300
+1. LC_322
+1. LC_518
+1. LC_416
+1. LC_1143
+1. LC_72
+1. LC_188
+1. LC_337
+1. LC_200
+1. LC_207
+1. LC_684
+1. LC_743
+1. LC_787
+1. LC_1631
+1. LC_1514
+1. LC_778
+1. LC_1584
+1. LC_1135
